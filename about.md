@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, there.
 
 ### More Information
 
@@ -12,4 +12,4 @@ I am a software technology enthusiast. Learning something new and bring it to ou
 
 ### Contact me
 
-[email@domain.com](mailto:ashleeeeeeyang@hotmail.com)
+[email@chinaembassy.com](mailto:ashleeeeeeyang@hotmail.com)
