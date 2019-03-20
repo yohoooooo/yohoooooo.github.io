@@ -12,4 +12,4 @@ I am a software technology enthusiast. Learning something new and bring it to ou
 
 ### Contact me
 
-[email@chinaembassy.com](mailto:ashleeeeeeyang@hotmail.com)
+[email@chineaembassy.com](mailto:ashleeeeeeyang@hotmail.com)
