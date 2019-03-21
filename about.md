@@ -11,6 +11,7 @@ Hi, there.
 I am a software technology enthusiast. Learning something new and bring it to our life is my hobby. ;)
 
 I like those things from Bill Gates:
+
 　　1.人生是不公平的，习惯去接受它吧。
 
 　　2.这个世界不会在乎你的自尊，这个世界期望你先做出成绩，再去强调自己的感受。
