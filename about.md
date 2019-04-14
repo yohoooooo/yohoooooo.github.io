@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi, there.
+Hi, there. Please refer infoq for more blogs from me.
 
 ### More Information
 
-I am a software technology enthusiast. Learning something new and bring it to our life is my hobby. ;)
+I am a software technology enthusiast. Learning something new and bring it to benefit our life is my hobby. ;)
 
 I like those things from Bill Gates:
 
